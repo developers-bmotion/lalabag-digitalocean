@@ -1,0 +1,108 @@
+10-21-2020 @ 17:41:28 - ======================
+10-21-2020 @ 17:41:28 - Start renew order cron at 2020-10-21 17:41:28
+10-21-2020 @ 17:41:28 - Search subscriptions with Payment due date < 2020-10-22 17:41:28
+10-21-2020 @ 17:41:28 - Found 1 subscriptions
+10-21-2020 @ 17:41:28 - Subscription #7558 found
+10-21-2020 @ 17:41:28 - Creating renew order for the subscription #7558
+10-21-2020 @ 17:41:28 - Here the subscription data:
+10-21-2020 @ 17:41:28 - ---- Original order id 7557
+10-21-2020 @ 17:41:28 - ---- the renew order must have the status on-hold
+10-21-2020 @ 17:41:28 - ---- the renew order not exist, create!
+10-21-2020 @ 17:41:28 - ----the customer with subscription #7558 has this user id #485
+10-21-2020 @ 17:41:28 - ---- the renew order created is #7605 the customer
+10-21-2020 @ 17:41:28 - ----Check the billing an shipping info
+10-21-2020 @ 17:41:28 - --------Check for billing
+10-21-2020 @ 17:41:28 - -------- billing for 7557 and user 485 (485 ) 
+10-21-2020 @ 17:41:28 - --------Check for shipping
+10-21-2020 @ 17:41:28 - -------- shipping for 7557 and user 485 (485 ) 
+10-21-2020 @ 17:41:28 - ---- set_subscriptions\n
+10-21-2020 @ 17:41:28 - -------- subscriptions Array
+(
+    [0] => 7558
+)
+
+10-21-2020 @ 17:41:28 - ---- set_payment_method\n
+10-21-2020 @ 17:41:28 - -------- epayco
+10-21-2020 @ 17:41:28 - ---- set_payment_method_title\n
+10-21-2020 @ 17:41:28 - -------- 
+10-21-2020 @ 17:41:28 - ---- set_currency\n
+10-21-2020 @ 17:41:28 - -------- COP
+10-21-2020 @ 17:41:28 - ---- set_failed_attemps\n
+10-21-2020 @ 17:41:28 - -------- failed_attemps 0
+10-21-2020 @ 17:41:28 - ---- set_next_payment_attempt\n
+10-21-2020 @ 17:41:28 - -------- next_payment_attempt 0
+10-21-2020 @ 17:41:28 - ---- set_shipping_first_name\n
+10-21-2020 @ 17:41:28 - -------- Diana Jimena
+10-21-2020 @ 17:41:28 - ---- set_shipping_last_name\n
+10-21-2020 @ 17:41:28 - -------- Quiacha
+10-21-2020 @ 17:41:28 - ---- set_shipping_company\n
+10-21-2020 @ 17:41:28 - -------- 
+10-21-2020 @ 17:41:28 - ---- set_shipping_address_1\n
+10-21-2020 @ 17:41:28 - -------- Calle 85 # 8-31
+10-21-2020 @ 17:41:28 - ---- set_shipping_address_2\n
+10-21-2020 @ 17:41:28 - -------- 
+10-21-2020 @ 17:41:28 - ---- set_shipping_city\n
+10-21-2020 @ 17:41:28 - -------- Neiva
+10-21-2020 @ 17:41:28 - ---- set_shipping_state\n
+10-21-2020 @ 17:41:28 - -------- HUI
+10-21-2020 @ 17:41:28 - ---- set_shipping_postcode\n
+10-21-2020 @ 17:41:28 - -------- 
+10-21-2020 @ 17:41:28 - ---- set_shipping_country\n
+10-21-2020 @ 17:41:28 - -------- CO
+10-21-2020 @ 17:41:28 - ---- set_shipping_phone\n
+10-21-2020 @ 17:41:28 - -------- shipping_phone 3102182064
+10-21-2020 @ 17:41:28 - ---- set_billing_first_name\n
+10-21-2020 @ 17:41:28 - -------- Diana Jimena
+10-21-2020 @ 17:41:28 - ---- set_billing_last_name\n
+10-21-2020 @ 17:41:28 - -------- Quiacha
+10-21-2020 @ 17:41:28 - ---- set_billing_company\n
+10-21-2020 @ 17:41:28 - -------- 
+10-21-2020 @ 17:41:28 - ---- set_billing_address_1\n
+10-21-2020 @ 17:41:28 - -------- Calle 85 # 8-31
+10-21-2020 @ 17:41:28 - ---- set_billing_address_2\n
+10-21-2020 @ 17:41:28 - -------- 
+10-21-2020 @ 17:41:28 - ---- set_billing_city\n
+10-21-2020 @ 17:41:28 - -------- Neiva
+10-21-2020 @ 17:41:28 - ---- set_billing_state\n
+10-21-2020 @ 17:41:28 - -------- HUI
+10-21-2020 @ 17:41:28 - ---- set_billing_postcode\n
+10-21-2020 @ 17:41:28 - -------- 
+10-21-2020 @ 17:41:28 - ---- set_billing_country\n
+10-21-2020 @ 17:41:28 - -------- CO
+10-21-2020 @ 17:41:28 - ---- set_billing_email\n
+10-21-2020 @ 17:41:28 - -------- diana.q.s@hotmail.es
+10-21-2020 @ 17:41:28 - ---- set_billing_phone\n
+10-21-2020 @ 17:41:28 - -------- 3102182064
+10-21-2020 @ 17:41:30 - New order created with id 7605 for the subscription
+10-21-2020 @ 17:41:30 - ======================
+10-21-2020 @ 17:41:30 - ===============
+10-21-2020 @ 17:41:30 - Start Payment Renews cron at 2020-10-21 17:41:30
+10-21-2020 @ 17:41:30 - Search renew order with date < 2020-10-20 17:41:30
+10-21-2020 @ 17:41:30 - Found 0 new renew orders
+10-21-2020 @ 17:41:30 - Found 0 failed renew orders
+10-21-2020 @ 17:41:30 - =======================
+10-21-2020 @ 17:41:32 - --------Check for billing
+10-21-2020 @ 17:41:32 - -------- billing for 7557 and user 485 (485 ) 
+10-21-2020 @ 17:41:32 - --------Check for billing
+10-21-2020 @ 17:41:32 - -------- billing for 7557 and user 485 (485 ) 
+10-21-2020 @ 17:41:33 - --------Check for billing
+10-21-2020 @ 17:41:33 - -------- billing for 7592 and user 214 (214 ) 
+10-21-2020 @ 17:41:33 - --------Check for billing
+10-21-2020 @ 17:41:33 - -------- billing for 7592 and user 214 (214 ) 
+10-21-2020 @ 17:41:34 - ===============
+10-21-2020 @ 17:41:34 - Start Payment Renews cron at 2020-10-21 17:41:34
+10-21-2020 @ 17:41:34 - Search renew order with date < 2020-10-20 17:41:34
+10-21-2020 @ 17:41:34 - Found 0 new renew orders
+10-21-2020 @ 17:41:34 - Found 0 failed renew orders
+10-21-2020 @ 17:41:34 - =======================
+10-21-2020 @ 18:00:01 - ======================
+10-21-2020 @ 18:00:01 - Start renew order cron at 2020-10-21 18:00:01
+10-21-2020 @ 18:00:01 - Search subscriptions with Payment due date < 2020-10-22 18:00:01
+10-21-2020 @ 18:00:01 - Found 0 subscriptions
+10-21-2020 @ 18:00:01 - ======================
+10-21-2020 @ 18:00:02 - ===============
+10-21-2020 @ 18:00:02 - Start Payment Renews cron at 2020-10-21 18:00:02
+10-21-2020 @ 18:00:02 - Search renew order with date < 2020-10-20 18:00:02
+10-21-2020 @ 18:00:02 - Found 0 new renew orders
+10-21-2020 @ 18:00:02 - Found 0 failed renew orders
+10-21-2020 @ 18:00:02 - =======================

@@ -1,0 +1,370 @@
+10-30-2020 @ 19:01:18 - ======================
+10-30-2020 @ 19:01:18 - Start renew order cron at 2020-10-30 19:01:18
+10-30-2020 @ 19:01:18 - Search subscriptions with Payment due date < 2020-10-31 19:01:18
+10-30-2020 @ 19:01:18 - Found 0 subscriptions
+10-30-2020 @ 19:01:18 - ======================
+10-30-2020 @ 19:01:18 - ===============
+10-30-2020 @ 19:01:18 - Start Payment Renews cron at 2020-10-30 19:01:18
+10-30-2020 @ 19:01:18 - Search renew order with date < 2020-10-29 19:01:18
+10-30-2020 @ 19:01:18 - Found 2 new renew orders
+10-30-2020 @ 19:01:18 - Found 0 failed renew orders
+10-30-2020 @ 19:01:18 - Pay order #7643
+10-30-2020 @ 19:01:18 - The order 7643 should be pay with ( epayco )
+10-30-2020 @ 19:01:18 - Pay order #7638
+10-30-2020 @ 19:01:18 - The order 7638 should be pay with ( epayco )
+10-30-2020 @ 19:01:18 - =======================
+10-30-2020 @ 20:03:31 - ======================
+10-30-2020 @ 20:03:31 - Start renew order cron at 2020-10-30 20:03:31
+10-30-2020 @ 20:03:31 - Search subscriptions with Payment due date < 2020-10-31 20:03:31
+10-30-2020 @ 20:03:31 - Found 0 subscriptions
+10-30-2020 @ 20:03:31 - ======================
+10-30-2020 @ 20:03:31 - ===============
+10-30-2020 @ 20:03:31 - Start Payment Renews cron at 2020-10-30 20:03:31
+10-30-2020 @ 20:03:31 - Search renew order with date < 2020-10-29 20:03:31
+10-30-2020 @ 20:03:31 - Found 2 new renew orders
+10-30-2020 @ 20:03:31 - Found 0 failed renew orders
+10-30-2020 @ 20:03:31 - Pay order #7643
+10-30-2020 @ 20:03:31 - The order 7643 should be pay with ( epayco )
+10-30-2020 @ 20:03:31 - Pay order #7638
+10-30-2020 @ 20:03:31 - The order 7638 should be pay with ( epayco )
+10-30-2020 @ 20:03:31 - =======================
+10-30-2020 @ 21:06:21 - ======================
+10-30-2020 @ 21:06:21 - Start renew order cron at 2020-10-30 21:06:21
+10-30-2020 @ 21:06:21 - Search subscriptions with Payment due date < 2020-10-31 21:06:21
+10-30-2020 @ 21:06:21 - Found 0 subscriptions
+10-30-2020 @ 21:06:21 - ======================
+10-30-2020 @ 21:06:22 - ===============
+10-30-2020 @ 21:06:22 - Start Payment Renews cron at 2020-10-30 21:06:22
+10-30-2020 @ 21:06:22 - Search renew order with date < 2020-10-29 21:06:22
+10-30-2020 @ 21:06:22 - Found 2 new renew orders
+10-30-2020 @ 21:06:22 - Found 0 failed renew orders
+10-30-2020 @ 21:06:22 - Pay order #7643
+10-30-2020 @ 21:06:22 - The order 7643 should be pay with ( epayco )
+10-30-2020 @ 21:06:22 - Pay order #7638
+10-30-2020 @ 21:06:22 - The order 7638 should be pay with ( epayco )
+10-30-2020 @ 21:06:22 - =======================
+10-30-2020 @ 22:01:19 - ======================
+10-30-2020 @ 22:01:19 - Start renew order cron at 2020-10-30 22:01:19
+10-30-2020 @ 22:01:19 - Search subscriptions with Payment due date < 2020-10-31 22:01:19
+10-30-2020 @ 22:01:19 - Found 0 subscriptions
+10-30-2020 @ 22:01:19 - ======================
+10-30-2020 @ 22:01:19 - ===============
+10-30-2020 @ 22:01:19 - Start Payment Renews cron at 2020-10-30 22:01:19
+10-30-2020 @ 22:01:19 - Search renew order with date < 2020-10-29 22:01:19
+10-30-2020 @ 22:01:19 - Found 2 new renew orders
+10-30-2020 @ 22:01:19 - Found 0 failed renew orders
+10-30-2020 @ 22:01:19 - Pay order #7643
+10-30-2020 @ 22:01:19 - The order 7643 should be pay with ( epayco )
+10-30-2020 @ 22:01:19 - Pay order #7638
+10-30-2020 @ 22:01:19 - The order 7638 should be pay with ( epayco )
+10-30-2020 @ 22:01:19 - =======================
+10-30-2020 @ 23:01:11 - ======================
+10-30-2020 @ 23:01:11 - Start renew order cron at 2020-10-30 23:01:11
+10-30-2020 @ 23:01:11 - Search subscriptions with Payment due date < 2020-10-31 23:01:11
+10-30-2020 @ 23:01:11 - Found 0 subscriptions
+10-30-2020 @ 23:01:11 - ======================
+10-30-2020 @ 23:01:11 - ===============
+10-30-2020 @ 23:01:11 - Start Payment Renews cron at 2020-10-30 23:01:11
+10-30-2020 @ 23:01:11 - Search renew order with date < 2020-10-29 23:01:11
+10-30-2020 @ 23:01:11 - Found 2 new renew orders
+10-30-2020 @ 23:01:11 - Found 0 failed renew orders
+10-30-2020 @ 23:01:11 - Pay order #7643
+10-30-2020 @ 23:01:11 - The order 7643 should be pay with ( epayco )
+10-30-2020 @ 23:01:11 - Pay order #7638
+10-30-2020 @ 23:01:11 - The order 7638 should be pay with ( epayco )
+10-30-2020 @ 23:01:11 - =======================
+10-31-2020 @ 00:00:56 - ===============
+10-31-2020 @ 00:00:56 - Start Payment Renews cron at 2020-10-31 00:00:56
+10-31-2020 @ 00:00:56 - Search renew order with date < 2020-10-30 00:00:56
+10-31-2020 @ 00:00:56 - Found 2 new renew orders
+10-31-2020 @ 00:00:56 - Found 0 failed renew orders
+10-31-2020 @ 00:00:56 - Pay order #7643
+10-31-2020 @ 00:00:56 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 00:00:56 - Pay order #7638
+10-31-2020 @ 00:00:56 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 00:00:56 - =======================
+10-31-2020 @ 00:00:56 - ======================
+10-31-2020 @ 00:00:56 - Start renew order cron at 2020-10-31 00:00:56
+10-31-2020 @ 00:00:56 - Search subscriptions with Payment due date < 2020-11-01 00:00:56
+10-31-2020 @ 00:00:56 - Found 0 subscriptions
+10-31-2020 @ 00:00:56 - ======================
+10-31-2020 @ 00:00:56 - ===============
+10-31-2020 @ 00:00:56 - Start Payment Renews cron at 2020-10-31 00:00:56
+10-31-2020 @ 00:00:56 - Search renew order with date < 2020-10-30 00:00:56
+10-31-2020 @ 00:00:56 - Found 2 new renew orders
+10-31-2020 @ 00:00:56 - Found 0 failed renew orders
+10-31-2020 @ 00:00:56 - Pay order #7643
+10-31-2020 @ 00:00:56 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 00:00:56 - Pay order #7638
+10-31-2020 @ 00:00:56 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 00:00:56 - =======================
+10-31-2020 @ 01:03:25 - ======================
+10-31-2020 @ 01:03:25 - Start renew order cron at 2020-10-31 01:03:25
+10-31-2020 @ 01:03:25 - Search subscriptions with Payment due date < 2020-11-01 01:03:25
+10-31-2020 @ 01:03:25 - Found 0 subscriptions
+10-31-2020 @ 01:03:25 - ======================
+10-31-2020 @ 01:03:25 - ===============
+10-31-2020 @ 01:03:25 - Start Payment Renews cron at 2020-10-31 01:03:25
+10-31-2020 @ 01:03:25 - Search renew order with date < 2020-10-30 01:03:25
+10-31-2020 @ 01:03:25 - Found 2 new renew orders
+10-31-2020 @ 01:03:25 - Found 0 failed renew orders
+10-31-2020 @ 01:03:25 - Pay order #7643
+10-31-2020 @ 01:03:25 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 01:03:25 - Pay order #7638
+10-31-2020 @ 01:03:25 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 01:03:25 - =======================
+10-31-2020 @ 02:03:02 - ======================
+10-31-2020 @ 02:03:02 - Start renew order cron at 2020-10-31 02:03:02
+10-31-2020 @ 02:03:02 - Search subscriptions with Payment due date < 2020-11-01 02:03:02
+10-31-2020 @ 02:03:02 - Found 0 subscriptions
+10-31-2020 @ 02:03:02 - ======================
+10-31-2020 @ 02:03:02 - ===============
+10-31-2020 @ 02:03:02 - Start Payment Renews cron at 2020-10-31 02:03:02
+10-31-2020 @ 02:03:02 - Search renew order with date < 2020-10-30 02:03:02
+10-31-2020 @ 02:03:02 - Found 2 new renew orders
+10-31-2020 @ 02:03:02 - Found 0 failed renew orders
+10-31-2020 @ 02:03:02 - Pay order #7643
+10-31-2020 @ 02:03:02 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 02:03:02 - Pay order #7638
+10-31-2020 @ 02:03:02 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 02:03:02 - =======================
+10-31-2020 @ 03:07:28 - ======================
+10-31-2020 @ 03:07:28 - Start renew order cron at 2020-10-31 03:07:28
+10-31-2020 @ 03:07:28 - Search subscriptions with Payment due date < 2020-11-01 03:07:28
+10-31-2020 @ 03:07:28 - Found 0 subscriptions
+10-31-2020 @ 03:07:28 - ======================
+10-31-2020 @ 03:07:28 - ===============
+10-31-2020 @ 03:07:28 - Start Payment Renews cron at 2020-10-31 03:07:28
+10-31-2020 @ 03:07:28 - Search renew order with date < 2020-10-30 03:07:28
+10-31-2020 @ 03:07:28 - Found 2 new renew orders
+10-31-2020 @ 03:07:28 - Found 0 failed renew orders
+10-31-2020 @ 03:07:28 - Pay order #7643
+10-31-2020 @ 03:07:28 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 03:07:28 - Pay order #7638
+10-31-2020 @ 03:07:28 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 03:07:28 - =======================
+10-31-2020 @ 04:01:52 - ======================
+10-31-2020 @ 04:01:52 - Start renew order cron at 2020-10-31 04:01:52
+10-31-2020 @ 04:01:52 - Search subscriptions with Payment due date < 2020-11-01 04:01:52
+10-31-2020 @ 04:01:52 - Found 0 subscriptions
+10-31-2020 @ 04:01:52 - ======================
+10-31-2020 @ 04:01:52 - ===============
+10-31-2020 @ 04:01:52 - Start Payment Renews cron at 2020-10-31 04:01:52
+10-31-2020 @ 04:01:52 - Search renew order with date < 2020-10-30 04:01:52
+10-31-2020 @ 04:01:52 - Found 2 new renew orders
+10-31-2020 @ 04:01:52 - Found 0 failed renew orders
+10-31-2020 @ 04:01:52 - Pay order #7643
+10-31-2020 @ 04:01:52 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 04:01:52 - Pay order #7638
+10-31-2020 @ 04:01:52 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 04:01:52 - =======================
+10-31-2020 @ 05:03:38 - ======================
+10-31-2020 @ 05:03:38 - Start renew order cron at 2020-10-31 05:03:38
+10-31-2020 @ 05:03:38 - Search subscriptions with Payment due date < 2020-11-01 05:03:38
+10-31-2020 @ 05:03:38 - Found 0 subscriptions
+10-31-2020 @ 05:03:38 - ======================
+10-31-2020 @ 05:03:38 - ===============
+10-31-2020 @ 05:03:38 - Start Payment Renews cron at 2020-10-31 05:03:38
+10-31-2020 @ 05:03:38 - Search renew order with date < 2020-10-30 05:03:38
+10-31-2020 @ 05:03:38 - Found 2 new renew orders
+10-31-2020 @ 05:03:38 - Found 0 failed renew orders
+10-31-2020 @ 05:03:38 - Pay order #7643
+10-31-2020 @ 05:03:38 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 05:03:38 - Pay order #7638
+10-31-2020 @ 05:03:38 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 05:03:38 - =======================
+10-31-2020 @ 06:01:27 - ======================
+10-31-2020 @ 06:01:27 - Start renew order cron at 2020-10-31 06:01:27
+10-31-2020 @ 06:01:27 - Search subscriptions with Payment due date < 2020-11-01 06:01:27
+10-31-2020 @ 06:01:27 - Found 0 subscriptions
+10-31-2020 @ 06:01:27 - ======================
+10-31-2020 @ 06:01:27 - ===============
+10-31-2020 @ 06:01:27 - Start Payment Renews cron at 2020-10-31 06:01:27
+10-31-2020 @ 06:01:27 - Search renew order with date < 2020-10-30 06:01:27
+10-31-2020 @ 06:01:27 - Found 2 new renew orders
+10-31-2020 @ 06:01:27 - Found 0 failed renew orders
+10-31-2020 @ 06:01:27 - Pay order #7643
+10-31-2020 @ 06:01:27 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 06:01:27 - Pay order #7638
+10-31-2020 @ 06:01:27 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 06:01:27 - =======================
+10-31-2020 @ 07:03:53 - ======================
+10-31-2020 @ 07:03:53 - Start renew order cron at 2020-10-31 07:03:53
+10-31-2020 @ 07:03:53 - Search subscriptions with Payment due date < 2020-11-01 07:03:53
+10-31-2020 @ 07:03:53 - Found 0 subscriptions
+10-31-2020 @ 07:03:53 - ======================
+10-31-2020 @ 07:03:53 - ===============
+10-31-2020 @ 07:03:53 - Start Payment Renews cron at 2020-10-31 07:03:53
+10-31-2020 @ 07:03:53 - Search renew order with date < 2020-10-30 07:03:53
+10-31-2020 @ 07:03:53 - Found 2 new renew orders
+10-31-2020 @ 07:03:53 - Found 0 failed renew orders
+10-31-2020 @ 07:03:53 - Pay order #7643
+10-31-2020 @ 07:03:53 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 07:03:53 - Pay order #7638
+10-31-2020 @ 07:03:53 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 07:03:53 - =======================
+10-31-2020 @ 08:07:10 - ======================
+10-31-2020 @ 08:07:10 - Start renew order cron at 2020-10-31 08:07:10
+10-31-2020 @ 08:07:10 - Search subscriptions with Payment due date < 2020-11-01 08:07:10
+10-31-2020 @ 08:07:10 - Found 0 subscriptions
+10-31-2020 @ 08:07:10 - ======================
+10-31-2020 @ 08:07:10 - ===============
+10-31-2020 @ 08:07:10 - Start Payment Renews cron at 2020-10-31 08:07:10
+10-31-2020 @ 08:07:10 - Search renew order with date < 2020-10-30 08:07:10
+10-31-2020 @ 08:07:10 - Found 2 new renew orders
+10-31-2020 @ 08:07:10 - Found 0 failed renew orders
+10-31-2020 @ 08:07:10 - Pay order #7643
+10-31-2020 @ 08:07:10 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 08:07:10 - Pay order #7638
+10-31-2020 @ 08:07:10 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 08:07:10 - =======================
+10-31-2020 @ 09:01:43 - ======================
+10-31-2020 @ 09:01:43 - Start renew order cron at 2020-10-31 09:01:43
+10-31-2020 @ 09:01:43 - Search subscriptions with Payment due date < 2020-11-01 09:01:43
+10-31-2020 @ 09:01:43 - Found 0 subscriptions
+10-31-2020 @ 09:01:43 - ======================
+10-31-2020 @ 09:01:43 - ===============
+10-31-2020 @ 09:01:43 - Start Payment Renews cron at 2020-10-31 09:01:43
+10-31-2020 @ 09:01:43 - Search renew order with date < 2020-10-30 09:01:43
+10-31-2020 @ 09:01:43 - Found 2 new renew orders
+10-31-2020 @ 09:01:43 - Found 0 failed renew orders
+10-31-2020 @ 09:01:43 - Pay order #7643
+10-31-2020 @ 09:01:43 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 09:01:43 - Pay order #7638
+10-31-2020 @ 09:01:43 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 09:01:43 - =======================
+10-31-2020 @ 10:04:17 - ======================
+10-31-2020 @ 10:04:17 - Start renew order cron at 2020-10-31 10:04:17
+10-31-2020 @ 10:04:17 - Search subscriptions with Payment due date < 2020-11-01 10:04:16
+10-31-2020 @ 10:04:17 - Found 0 subscriptions
+10-31-2020 @ 10:04:17 - ======================
+10-31-2020 @ 10:04:17 - ===============
+10-31-2020 @ 10:04:17 - Start Payment Renews cron at 2020-10-31 10:04:17
+10-31-2020 @ 10:04:17 - Search renew order with date < 2020-10-30 10:04:17
+10-31-2020 @ 10:04:17 - Found 2 new renew orders
+10-31-2020 @ 10:04:17 - Found 0 failed renew orders
+10-31-2020 @ 10:04:17 - Pay order #7643
+10-31-2020 @ 10:04:17 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 10:04:17 - Pay order #7638
+10-31-2020 @ 10:04:17 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 10:04:17 - =======================
+10-31-2020 @ 11:03:31 - ======================
+10-31-2020 @ 11:03:31 - Start renew order cron at 2020-10-31 11:03:31
+10-31-2020 @ 11:03:31 - Search subscriptions with Payment due date < 2020-11-01 11:03:31
+10-31-2020 @ 11:03:31 - Found 0 subscriptions
+10-31-2020 @ 11:03:31 - ======================
+10-31-2020 @ 11:03:31 - ===============
+10-31-2020 @ 11:03:31 - Start Payment Renews cron at 2020-10-31 11:03:31
+10-31-2020 @ 11:03:31 - Search renew order with date < 2020-10-30 11:03:31
+10-31-2020 @ 11:03:31 - Found 2 new renew orders
+10-31-2020 @ 11:03:31 - Found 0 failed renew orders
+10-31-2020 @ 11:03:31 - Pay order #7643
+10-31-2020 @ 11:03:31 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 11:03:31 - Pay order #7638
+10-31-2020 @ 11:03:31 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 11:03:31 - =======================
+10-31-2020 @ 12:01:10 - ======================
+10-31-2020 @ 12:01:10 - Start renew order cron at 2020-10-31 12:01:10
+10-31-2020 @ 12:01:10 - Search subscriptions with Payment due date < 2020-11-01 12:01:10
+10-31-2020 @ 12:01:10 - Found 0 subscriptions
+10-31-2020 @ 12:01:10 - ======================
+10-31-2020 @ 12:01:10 - ===============
+10-31-2020 @ 12:01:10 - Start Payment Renews cron at 2020-10-31 12:01:10
+10-31-2020 @ 12:01:10 - Search renew order with date < 2020-10-30 12:01:10
+10-31-2020 @ 12:01:10 - Found 2 new renew orders
+10-31-2020 @ 12:01:10 - Found 0 failed renew orders
+10-31-2020 @ 12:01:10 - Pay order #7643
+10-31-2020 @ 12:01:10 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 12:01:10 - Pay order #7638
+10-31-2020 @ 12:01:10 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 12:01:10 - =======================
+10-31-2020 @ 13:04:11 - ======================
+10-31-2020 @ 13:04:11 - Start renew order cron at 2020-10-31 13:04:11
+10-31-2020 @ 13:04:11 - Search subscriptions with Payment due date < 2020-11-01 13:04:11
+10-31-2020 @ 13:04:11 - Found 0 subscriptions
+10-31-2020 @ 13:04:11 - ======================
+10-31-2020 @ 13:04:11 - ===============
+10-31-2020 @ 13:04:11 - Start Payment Renews cron at 2020-10-31 13:04:11
+10-31-2020 @ 13:04:11 - Search renew order with date < 2020-10-30 13:04:11
+10-31-2020 @ 13:04:11 - Found 2 new renew orders
+10-31-2020 @ 13:04:11 - Found 0 failed renew orders
+10-31-2020 @ 13:04:11 - Pay order #7643
+10-31-2020 @ 13:04:11 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 13:04:11 - Pay order #7638
+10-31-2020 @ 13:04:11 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 13:04:11 - =======================
+10-31-2020 @ 14:07:40 - ======================
+10-31-2020 @ 14:07:40 - Start renew order cron at 2020-10-31 14:07:40
+10-31-2020 @ 14:07:40 - Search subscriptions with Payment due date < 2020-11-01 14:07:40
+10-31-2020 @ 14:07:40 - Found 0 subscriptions
+10-31-2020 @ 14:07:40 - ======================
+10-31-2020 @ 14:07:40 - ===============
+10-31-2020 @ 14:07:40 - Start Payment Renews cron at 2020-10-31 14:07:40
+10-31-2020 @ 14:07:40 - Search renew order with date < 2020-10-30 14:07:40
+10-31-2020 @ 14:07:40 - Found 2 new renew orders
+10-31-2020 @ 14:07:40 - Found 0 failed renew orders
+10-31-2020 @ 14:07:40 - Pay order #7643
+10-31-2020 @ 14:07:40 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 14:07:40 - Pay order #7638
+10-31-2020 @ 14:07:40 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 14:07:40 - =======================
+10-31-2020 @ 15:01:52 - ======================
+10-31-2020 @ 15:01:52 - Start renew order cron at 2020-10-31 15:01:52
+10-31-2020 @ 15:01:52 - Search subscriptions with Payment due date < 2020-11-01 15:01:52
+10-31-2020 @ 15:01:52 - Found 0 subscriptions
+10-31-2020 @ 15:01:52 - ======================
+10-31-2020 @ 15:01:52 - ===============
+10-31-2020 @ 15:01:52 - Start Payment Renews cron at 2020-10-31 15:01:52
+10-31-2020 @ 15:01:52 - Search renew order with date < 2020-10-30 15:01:52
+10-31-2020 @ 15:01:52 - Found 2 new renew orders
+10-31-2020 @ 15:01:52 - Found 0 failed renew orders
+10-31-2020 @ 15:01:52 - Pay order #7643
+10-31-2020 @ 15:01:52 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 15:01:52 - Pay order #7638
+10-31-2020 @ 15:01:52 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 15:01:52 - =======================
+10-31-2020 @ 16:03:37 - ======================
+10-31-2020 @ 16:03:37 - Start renew order cron at 2020-10-31 16:03:37
+10-31-2020 @ 16:03:37 - Search subscriptions with Payment due date < 2020-11-01 16:03:37
+10-31-2020 @ 16:03:37 - Found 0 subscriptions
+10-31-2020 @ 16:03:37 - ======================
+10-31-2020 @ 16:03:37 - ===============
+10-31-2020 @ 16:03:37 - Start Payment Renews cron at 2020-10-31 16:03:37
+10-31-2020 @ 16:03:37 - Search renew order with date < 2020-10-30 16:03:37
+10-31-2020 @ 16:03:37 - Found 2 new renew orders
+10-31-2020 @ 16:03:37 - Found 0 failed renew orders
+10-31-2020 @ 16:03:37 - Pay order #7643
+10-31-2020 @ 16:03:37 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 16:03:37 - Pay order #7638
+10-31-2020 @ 16:03:37 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 16:03:37 - =======================
+10-31-2020 @ 17:00:56 - ======================
+10-31-2020 @ 17:00:56 - Start renew order cron at 2020-10-31 17:00:56
+10-31-2020 @ 17:00:56 - Search subscriptions with Payment due date < 2020-11-01 17:00:56
+10-31-2020 @ 17:00:56 - Found 0 subscriptions
+10-31-2020 @ 17:00:56 - ======================
+10-31-2020 @ 17:00:56 - ===============
+10-31-2020 @ 17:00:56 - Start Payment Renews cron at 2020-10-31 17:00:56
+10-31-2020 @ 17:00:56 - Search renew order with date < 2020-10-30 17:00:56
+10-31-2020 @ 17:00:56 - Found 2 new renew orders
+10-31-2020 @ 17:00:56 - Found 0 failed renew orders
+10-31-2020 @ 17:00:56 - Pay order #7643
+10-31-2020 @ 17:00:56 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 17:00:56 - Pay order #7638
+10-31-2020 @ 17:00:56 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 17:00:56 - =======================
+10-31-2020 @ 18:01:42 - ======================
+10-31-2020 @ 18:01:42 - Start renew order cron at 2020-10-31 18:01:42
+10-31-2020 @ 18:01:42 - Search subscriptions with Payment due date < 2020-11-01 18:01:42
+10-31-2020 @ 18:01:42 - Found 0 subscriptions
+10-31-2020 @ 18:01:42 - ======================
+10-31-2020 @ 18:01:42 - ===============
+10-31-2020 @ 18:01:42 - Start Payment Renews cron at 2020-10-31 18:01:42
+10-31-2020 @ 18:01:42 - Search renew order with date < 2020-10-30 18:01:42
+10-31-2020 @ 18:01:42 - Found 2 new renew orders
+10-31-2020 @ 18:01:42 - Found 0 failed renew orders
+10-31-2020 @ 18:01:42 - Pay order #7643
+10-31-2020 @ 18:01:42 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 18:01:42 - Pay order #7638
+10-31-2020 @ 18:01:42 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 18:01:42 - =======================

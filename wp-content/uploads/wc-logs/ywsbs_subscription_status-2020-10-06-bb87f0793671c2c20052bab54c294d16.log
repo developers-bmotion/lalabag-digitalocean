@@ -1,0 +1,20 @@
+10-06-2020 @ 00:00:26 - ======================
+10-06-2020 @ 00:00:26 - Start check subscription payment cron at 2020-10-06 00:00:26
+10-06-2020 @ 00:00:26 - Search subscriptions with Payment due date < 2020-10-06 00:00:26
+10-06-2020 @ 00:00:26 - Found 0 subscriptions
+10-06-2020 @ 00:00:26 - ===============
+10-06-2020 @ 00:00:26 - ======================
+10-06-2020 @ 00:00:26 - Start expired cron at 2020-10-06 00:00:26
+10-06-2020 @ 00:00:26 - Search subscription with expired date < 2020-10-06 00:00:26
+10-06-2020 @ 00:00:26 - Found 0 subscriptions
+10-06-2020 @ 00:00:26 - ======================
+10-06-2020 @ 00:00:31 - ======================
+10-06-2020 @ 00:00:31 - Start resume orders cron at 2020-10-06 00:00:31
+10-06-2020 @ 00:00:31 - Search subscriptions to resume with expired pause date <  2020-10-06 05:00:31
+10-06-2020 @ 00:00:31 - Found 0 subscriptions
+10-06-2020 @ 00:00:31 - ======================
+10-06-2020 @ 00:00:31 - ===============
+10-06-2020 @ 00:00:31 - Start check suspended subscription at 2020-10-06 00:00:31
+10-06-2020 @ 00:00:31 - Search suspended subscriptions with Payment due date < 2020-09-16 10:00:31
+10-06-2020 @ 00:00:31 - Found 0 subscriptions
+10-06-2020 @ 00:00:31 - ================

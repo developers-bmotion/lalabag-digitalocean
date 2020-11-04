@@ -1,0 +1,663 @@
+10-31-2020 @ 19:04:37 - ======================
+10-31-2020 @ 19:04:37 - Start renew order cron at 2020-10-31 19:04:37
+10-31-2020 @ 19:04:37 - Search subscriptions with Payment due date < 2020-11-01 19:04:37
+10-31-2020 @ 19:04:37 - Found 0 subscriptions
+10-31-2020 @ 19:04:37 - ======================
+10-31-2020 @ 19:04:37 - ===============
+10-31-2020 @ 19:04:37 - Start Payment Renews cron at 2020-10-31 19:04:37
+10-31-2020 @ 19:04:37 - Search renew order with date < 2020-10-30 19:04:37
+10-31-2020 @ 19:04:37 - Found 2 new renew orders
+10-31-2020 @ 19:04:37 - Found 0 failed renew orders
+10-31-2020 @ 19:04:37 - Pay order #7643
+10-31-2020 @ 19:04:37 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 19:04:37 - Pay order #7638
+10-31-2020 @ 19:04:37 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 19:04:37 - =======================
+10-31-2020 @ 20:07:15 - ======================
+10-31-2020 @ 20:07:15 - Start renew order cron at 2020-10-31 20:07:15
+10-31-2020 @ 20:07:15 - Search subscriptions with Payment due date < 2020-11-01 20:07:15
+10-31-2020 @ 20:07:15 - Found 0 subscriptions
+10-31-2020 @ 20:07:15 - ======================
+10-31-2020 @ 20:07:15 - ===============
+10-31-2020 @ 20:07:15 - Start Payment Renews cron at 2020-10-31 20:07:15
+10-31-2020 @ 20:07:15 - Search renew order with date < 2020-10-30 20:07:15
+10-31-2020 @ 20:07:15 - Found 2 new renew orders
+10-31-2020 @ 20:07:15 - Found 0 failed renew orders
+10-31-2020 @ 20:07:15 - Pay order #7643
+10-31-2020 @ 20:07:15 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 20:07:15 - Pay order #7638
+10-31-2020 @ 20:07:15 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 20:07:15 - =======================
+10-31-2020 @ 21:02:01 - ======================
+10-31-2020 @ 21:02:01 - Start renew order cron at 2020-10-31 21:02:01
+10-31-2020 @ 21:02:01 - Search subscriptions with Payment due date < 2020-11-01 21:02:01
+10-31-2020 @ 21:02:01 - Found 0 subscriptions
+10-31-2020 @ 21:02:01 - ======================
+10-31-2020 @ 21:02:01 - ===============
+10-31-2020 @ 21:02:01 - Start Payment Renews cron at 2020-10-31 21:02:01
+10-31-2020 @ 21:02:01 - Search renew order with date < 2020-10-30 21:02:01
+10-31-2020 @ 21:02:01 - Found 2 new renew orders
+10-31-2020 @ 21:02:01 - Found 0 failed renew orders
+10-31-2020 @ 21:02:01 - Pay order #7643
+10-31-2020 @ 21:02:01 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 21:02:01 - Pay order #7638
+10-31-2020 @ 21:02:01 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 21:02:01 - =======================
+10-31-2020 @ 22:06:16 - ======================
+10-31-2020 @ 22:06:16 - Start renew order cron at 2020-10-31 22:06:16
+10-31-2020 @ 22:06:16 - Search subscriptions with Payment due date < 2020-11-01 22:06:16
+10-31-2020 @ 22:06:16 - Found 0 subscriptions
+10-31-2020 @ 22:06:16 - ======================
+10-31-2020 @ 22:06:16 - ===============
+10-31-2020 @ 22:06:16 - Start Payment Renews cron at 2020-10-31 22:06:16
+10-31-2020 @ 22:06:16 - Search renew order with date < 2020-10-30 22:06:16
+10-31-2020 @ 22:06:16 - Found 2 new renew orders
+10-31-2020 @ 22:06:16 - Found 0 failed renew orders
+10-31-2020 @ 22:06:16 - Pay order #7643
+10-31-2020 @ 22:06:16 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 22:06:16 - Pay order #7638
+10-31-2020 @ 22:06:16 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 22:06:16 - =======================
+10-31-2020 @ 23:00:43 - ======================
+10-31-2020 @ 23:00:43 - Start renew order cron at 2020-10-31 23:00:43
+10-31-2020 @ 23:00:43 - Search subscriptions with Payment due date < 2020-11-01 23:00:43
+10-31-2020 @ 23:00:43 - Found 0 subscriptions
+10-31-2020 @ 23:00:43 - ======================
+10-31-2020 @ 23:00:43 - ===============
+10-31-2020 @ 23:00:43 - Start Payment Renews cron at 2020-10-31 23:00:43
+10-31-2020 @ 23:00:43 - Search renew order with date < 2020-10-30 23:00:43
+10-31-2020 @ 23:00:43 - Found 2 new renew orders
+10-31-2020 @ 23:00:43 - Found 0 failed renew orders
+10-31-2020 @ 23:00:43 - Pay order #7643
+10-31-2020 @ 23:00:43 - The order 7643 should be pay with ( epayco )
+10-31-2020 @ 23:00:43 - Pay order #7638
+10-31-2020 @ 23:00:43 - The order 7638 should be pay with ( epayco )
+10-31-2020 @ 23:00:43 - =======================
+11-01-2020 @ 00:06:06 - --------Check for billing
+11-01-2020 @ 00:06:06 - -------- billing for 7620 and user 510 (510 ) 
+11-01-2020 @ 00:06:06 - --------Check for billing
+11-01-2020 @ 00:06:06 - -------- billing for 7620 and user 510 (510 ) 
+11-01-2020 @ 00:06:07 - ===============
+11-01-2020 @ 00:06:07 - Start Payment Renews cron at 2020-11-01 00:06:07
+11-01-2020 @ 00:06:07 - Search renew order with date < 2020-10-31 00:06:07
+11-01-2020 @ 00:06:07 - Found 2 new renew orders
+11-01-2020 @ 00:06:07 - Found 0 failed renew orders
+11-01-2020 @ 00:06:07 - Pay order #7643
+11-01-2020 @ 00:06:07 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 00:06:07 - Pay order #7638
+11-01-2020 @ 00:06:07 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 00:06:07 - =======================
+11-01-2020 @ 00:06:07 - ======================
+11-01-2020 @ 00:06:07 - Start renew order cron at 2020-11-01 00:06:07
+11-01-2020 @ 00:06:07 - Search subscriptions with Payment due date < 2020-11-02 00:06:07
+11-01-2020 @ 00:06:07 - Found 0 subscriptions
+11-01-2020 @ 00:06:07 - ======================
+11-01-2020 @ 00:06:07 - ===============
+11-01-2020 @ 00:06:07 - Start Payment Renews cron at 2020-11-01 00:06:07
+11-01-2020 @ 00:06:07 - Search renew order with date < 2020-10-31 00:06:07
+11-01-2020 @ 00:06:07 - Found 2 new renew orders
+11-01-2020 @ 00:06:07 - Found 0 failed renew orders
+11-01-2020 @ 00:06:07 - Pay order #7643
+11-01-2020 @ 00:06:07 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 00:06:07 - Pay order #7638
+11-01-2020 @ 00:06:07 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 00:06:07 - =======================
+11-01-2020 @ 01:00:54 - ======================
+11-01-2020 @ 01:00:54 - Start renew order cron at 2020-11-01 01:00:54
+11-01-2020 @ 01:00:54 - Search subscriptions with Payment due date < 2020-11-02 01:00:54
+11-01-2020 @ 01:00:54 - Found 0 subscriptions
+11-01-2020 @ 01:00:54 - ======================
+11-01-2020 @ 01:00:54 - ===============
+11-01-2020 @ 01:00:54 - Start Payment Renews cron at 2020-11-01 01:00:54
+11-01-2020 @ 01:00:54 - Search renew order with date < 2020-10-31 01:00:54
+11-01-2020 @ 01:00:54 - Found 2 new renew orders
+11-01-2020 @ 01:00:54 - Found 0 failed renew orders
+11-01-2020 @ 01:00:54 - Pay order #7643
+11-01-2020 @ 01:00:54 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 01:00:54 - Pay order #7638
+11-01-2020 @ 01:00:54 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 01:00:54 - =======================
+11-01-2020 @ 02:05:17 - ======================
+11-01-2020 @ 02:05:17 - Start renew order cron at 2020-11-01 02:05:17
+11-01-2020 @ 02:05:17 - Search subscriptions with Payment due date < 2020-11-02 02:05:17
+11-01-2020 @ 02:05:17 - Found 0 subscriptions
+11-01-2020 @ 02:05:17 - ======================
+11-01-2020 @ 02:05:17 - ===============
+11-01-2020 @ 02:05:17 - Start Payment Renews cron at 2020-11-01 02:05:17
+11-01-2020 @ 02:05:17 - Search renew order with date < 2020-10-31 02:05:17
+11-01-2020 @ 02:05:17 - Found 2 new renew orders
+11-01-2020 @ 02:05:17 - Found 0 failed renew orders
+11-01-2020 @ 02:05:17 - Pay order #7643
+11-01-2020 @ 02:05:17 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 02:05:17 - Pay order #7638
+11-01-2020 @ 02:05:17 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 02:05:17 - =======================
+11-01-2020 @ 03:06:02 - ======================
+11-01-2020 @ 03:06:02 - Start renew order cron at 2020-11-01 03:06:02
+11-01-2020 @ 03:06:02 - Search subscriptions with Payment due date < 2020-11-02 03:06:02
+11-01-2020 @ 03:06:02 - Found 0 subscriptions
+11-01-2020 @ 03:06:02 - ======================
+11-01-2020 @ 03:06:02 - ===============
+11-01-2020 @ 03:06:02 - Start Payment Renews cron at 2020-11-01 03:06:02
+11-01-2020 @ 03:06:02 - Search renew order with date < 2020-10-31 03:06:02
+11-01-2020 @ 03:06:02 - Found 2 new renew orders
+11-01-2020 @ 03:06:02 - Found 0 failed renew orders
+11-01-2020 @ 03:06:02 - Pay order #7643
+11-01-2020 @ 03:06:02 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 03:06:02 - Pay order #7638
+11-01-2020 @ 03:06:02 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 03:06:02 - =======================
+11-01-2020 @ 04:00:57 - ======================
+11-01-2020 @ 04:00:57 - Start renew order cron at 2020-11-01 04:00:57
+11-01-2020 @ 04:00:57 - Search subscriptions with Payment due date < 2020-11-02 04:00:57
+11-01-2020 @ 04:00:57 - Found 0 subscriptions
+11-01-2020 @ 04:00:57 - ======================
+11-01-2020 @ 04:00:57 - ===============
+11-01-2020 @ 04:00:57 - Start Payment Renews cron at 2020-11-01 04:00:57
+11-01-2020 @ 04:00:57 - Search renew order with date < 2020-10-31 04:00:57
+11-01-2020 @ 04:00:57 - Found 2 new renew orders
+11-01-2020 @ 04:00:57 - Found 0 failed renew orders
+11-01-2020 @ 04:00:57 - Pay order #7643
+11-01-2020 @ 04:00:57 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 04:00:57 - Pay order #7638
+11-01-2020 @ 04:00:58 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 04:00:58 - =======================
+11-01-2020 @ 05:03:42 - ======================
+11-01-2020 @ 05:03:42 - Start renew order cron at 2020-11-01 05:03:42
+11-01-2020 @ 05:03:42 - Search subscriptions with Payment due date < 2020-11-02 05:03:42
+11-01-2020 @ 05:03:42 - Found 0 subscriptions
+11-01-2020 @ 05:03:42 - ======================
+11-01-2020 @ 05:03:42 - ===============
+11-01-2020 @ 05:03:42 - Start Payment Renews cron at 2020-11-01 05:03:42
+11-01-2020 @ 05:03:42 - Search renew order with date < 2020-10-31 05:03:42
+11-01-2020 @ 05:03:42 - Found 2 new renew orders
+11-01-2020 @ 05:03:42 - Found 0 failed renew orders
+11-01-2020 @ 05:03:42 - Pay order #7643
+11-01-2020 @ 05:03:42 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 05:03:42 - Pay order #7638
+11-01-2020 @ 05:03:42 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 05:03:42 - =======================
+11-01-2020 @ 06:06:20 - ======================
+11-01-2020 @ 06:06:20 - Start renew order cron at 2020-11-01 06:06:20
+11-01-2020 @ 06:06:20 - Search subscriptions with Payment due date < 2020-11-02 06:06:20
+11-01-2020 @ 06:06:20 - Found 0 subscriptions
+11-01-2020 @ 06:06:20 - ======================
+11-01-2020 @ 06:06:20 - ===============
+11-01-2020 @ 06:06:20 - Start Payment Renews cron at 2020-11-01 06:06:20
+11-01-2020 @ 06:06:20 - Search renew order with date < 2020-10-31 06:06:20
+11-01-2020 @ 06:06:20 - Found 2 new renew orders
+11-01-2020 @ 06:06:20 - Found 0 failed renew orders
+11-01-2020 @ 06:06:20 - Pay order #7643
+11-01-2020 @ 06:06:20 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 06:06:20 - Pay order #7638
+11-01-2020 @ 06:06:20 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 06:06:20 - =======================
+11-01-2020 @ 07:00:50 - ======================
+11-01-2020 @ 07:00:50 - Start renew order cron at 2020-11-01 07:00:50
+11-01-2020 @ 07:00:50 - Search subscriptions with Payment due date < 2020-11-02 07:00:50
+11-01-2020 @ 07:00:50 - Found 0 subscriptions
+11-01-2020 @ 07:00:50 - ======================
+11-01-2020 @ 07:00:50 - ===============
+11-01-2020 @ 07:00:50 - Start Payment Renews cron at 2020-11-01 07:00:50
+11-01-2020 @ 07:00:50 - Search renew order with date < 2020-10-31 07:00:50
+11-01-2020 @ 07:00:50 - Found 2 new renew orders
+11-01-2020 @ 07:00:50 - Found 0 failed renew orders
+11-01-2020 @ 07:00:50 - Pay order #7643
+11-01-2020 @ 07:00:50 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 07:00:50 - Pay order #7638
+11-01-2020 @ 07:00:50 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 07:00:50 - =======================
+11-01-2020 @ 08:03:38 - ======================
+11-01-2020 @ 08:03:38 - Start renew order cron at 2020-11-01 08:03:38
+11-01-2020 @ 08:03:38 - Search subscriptions with Payment due date < 2020-11-02 08:03:38
+11-01-2020 @ 08:03:38 - Found 0 subscriptions
+11-01-2020 @ 08:03:38 - ======================
+11-01-2020 @ 08:03:38 - ===============
+11-01-2020 @ 08:03:38 - Start Payment Renews cron at 2020-11-01 08:03:38
+11-01-2020 @ 08:03:38 - Search renew order with date < 2020-10-31 08:03:38
+11-01-2020 @ 08:03:38 - Found 2 new renew orders
+11-01-2020 @ 08:03:38 - Found 0 failed renew orders
+11-01-2020 @ 08:03:38 - Pay order #7643
+11-01-2020 @ 08:03:38 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 08:03:38 - Pay order #7638
+11-01-2020 @ 08:03:38 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 08:03:38 - =======================
+11-01-2020 @ 09:06:23 - ======================
+11-01-2020 @ 09:06:23 - Start renew order cron at 2020-11-01 09:06:23
+11-01-2020 @ 09:06:23 - Search subscriptions with Payment due date < 2020-11-02 09:06:23
+11-01-2020 @ 09:06:23 - Found 0 subscriptions
+11-01-2020 @ 09:06:23 - ======================
+11-01-2020 @ 09:06:23 - ===============
+11-01-2020 @ 09:06:23 - Start Payment Renews cron at 2020-11-01 09:06:23
+11-01-2020 @ 09:06:23 - Search renew order with date < 2020-10-31 09:06:23
+11-01-2020 @ 09:06:23 - Found 2 new renew orders
+11-01-2020 @ 09:06:23 - Found 0 failed renew orders
+11-01-2020 @ 09:06:23 - Pay order #7643
+11-01-2020 @ 09:06:23 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 09:06:23 - Pay order #7638
+11-01-2020 @ 09:06:23 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 09:06:23 - =======================
+11-01-2020 @ 10:01:39 - ======================
+11-01-2020 @ 10:01:39 - Start renew order cron at 2020-11-01 10:01:39
+11-01-2020 @ 10:01:39 - Search subscriptions with Payment due date < 2020-11-02 10:01:39
+11-01-2020 @ 10:01:39 - Found 0 subscriptions
+11-01-2020 @ 10:01:39 - ======================
+11-01-2020 @ 10:01:39 - ===============
+11-01-2020 @ 10:01:39 - Start Payment Renews cron at 2020-11-01 10:01:39
+11-01-2020 @ 10:01:39 - Search renew order with date < 2020-10-31 10:01:39
+11-01-2020 @ 10:01:39 - Found 2 new renew orders
+11-01-2020 @ 10:01:39 - Found 0 failed renew orders
+11-01-2020 @ 10:01:39 - Pay order #7643
+11-01-2020 @ 10:01:39 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 10:01:39 - Pay order #7638
+11-01-2020 @ 10:01:39 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 10:01:39 - =======================
+11-01-2020 @ 11:00:40 - ======================
+11-01-2020 @ 11:00:40 - Start renew order cron at 2020-11-01 11:00:40
+11-01-2020 @ 11:00:40 - Search subscriptions with Payment due date < 2020-11-02 11:00:40
+11-01-2020 @ 11:00:40 - Found 2 subscriptions
+11-01-2020 @ 11:00:40 - Subscription #7556 found
+11-01-2020 @ 11:00:40 - Creating renew order for the subscription #7556
+11-01-2020 @ 11:00:40 - Here the subscription data:
+11-01-2020 @ 11:00:40 - ---- Original order id 7554
+11-01-2020 @ 11:00:40 - ---- the renew order must have the status on-hold
+11-01-2020 @ 11:00:40 - ---- the renew order not exist, create!
+11-01-2020 @ 11:00:41 - ----the customer with subscription #7556 has this user id #284
+11-01-2020 @ 11:00:41 - ---- the renew order created is #7662 the customer
+11-01-2020 @ 11:00:41 - ----Check the billing an shipping info
+11-01-2020 @ 11:00:41 - --------Check for billing
+11-01-2020 @ 11:00:41 - -------- billing for 7554 and user 284 (284 ) 
+11-01-2020 @ 11:00:41 - --------Check for shipping
+11-01-2020 @ 11:00:41 - -------- shipping for 7554 and user 284 (284 ) 
+11-01-2020 @ 11:00:41 - ---- set_subscriptions\n
+11-01-2020 @ 11:00:41 - -------- subscriptions Array
+(
+    [0] => 7556
+)
+
+11-01-2020 @ 11:00:41 - ---- set_payment_method\n
+11-01-2020 @ 11:00:41 - -------- epayco
+11-01-2020 @ 11:00:41 - ---- set_payment_method_title\n
+11-01-2020 @ 11:00:41 - -------- 
+11-01-2020 @ 11:00:41 - ---- set_currency\n
+11-01-2020 @ 11:00:41 - -------- COP
+11-01-2020 @ 11:00:41 - ---- set_failed_attemps\n
+11-01-2020 @ 11:00:41 - -------- failed_attemps 0
+11-01-2020 @ 11:00:41 - ---- set_next_payment_attempt\n
+11-01-2020 @ 11:00:41 - -------- next_payment_attempt 0
+11-01-2020 @ 11:00:41 - ---- set_shipping_first_name\n
+11-01-2020 @ 11:00:41 - -------- Daniela andrea
+11-01-2020 @ 11:00:41 - ---- set_shipping_last_name\n
+11-01-2020 @ 11:00:41 - -------- Galviz Escobar
+11-01-2020 @ 11:00:41 - ---- set_shipping_company\n
+11-01-2020 @ 11:00:41 - -------- 
+11-01-2020 @ 11:00:41 - ---- set_shipping_address_1\n
+11-01-2020 @ 11:00:41 - -------- Calle 13#4-22
+11-01-2020 @ 11:00:41 - ---- set_shipping_address_2\n
+11-01-2020 @ 11:00:41 - -------- Apartamento 201 García herreros
+11-01-2020 @ 11:00:41 - ---- set_shipping_city\n
+11-01-2020 @ 11:00:41 - -------- Cúcuta
+11-01-2020 @ 11:00:41 - ---- set_shipping_state\n
+11-01-2020 @ 11:00:41 - -------- NOR
+11-01-2020 @ 11:00:41 - ---- set_shipping_postcode\n
+11-01-2020 @ 11:00:41 - -------- 
+11-01-2020 @ 11:00:41 - ---- set_shipping_country\n
+11-01-2020 @ 11:00:41 - -------- CO
+11-01-2020 @ 11:00:41 - ---- set_shipping_phone\n
+11-01-2020 @ 11:00:41 - -------- shipping_phone 3123768146
+11-01-2020 @ 11:00:41 - ---- set_billing_first_name\n
+11-01-2020 @ 11:00:41 - -------- Daniela andrea
+11-01-2020 @ 11:00:41 - ---- set_billing_last_name\n
+11-01-2020 @ 11:00:41 - -------- Galviz Escobar
+11-01-2020 @ 11:00:41 - ---- set_billing_company\n
+11-01-2020 @ 11:00:41 - -------- 
+11-01-2020 @ 11:00:41 - ---- set_billing_address_1\n
+11-01-2020 @ 11:00:41 - -------- Calle 13#4-22
+11-01-2020 @ 11:00:41 - ---- set_billing_address_2\n
+11-01-2020 @ 11:00:41 - -------- Apartamento 201 García herreros
+11-01-2020 @ 11:00:41 - ---- set_billing_city\n
+11-01-2020 @ 11:00:41 - -------- Cúcuta
+11-01-2020 @ 11:00:41 - ---- set_billing_state\n
+11-01-2020 @ 11:00:41 - -------- NOR
+11-01-2020 @ 11:00:41 - ---- set_billing_postcode\n
+11-01-2020 @ 11:00:41 - -------- 
+11-01-2020 @ 11:00:41 - ---- set_billing_country\n
+11-01-2020 @ 11:00:41 - -------- CO
+11-01-2020 @ 11:00:41 - ---- set_billing_email\n
+11-01-2020 @ 11:00:41 - -------- dangaes@outlook.com
+11-01-2020 @ 11:00:41 - ---- set_billing_phone\n
+11-01-2020 @ 11:00:41 - -------- 3123768146
+11-01-2020 @ 11:00:43 - New order created with id 7662 for the subscription
+11-01-2020 @ 11:00:43 - Subscription #7553 found
+11-01-2020 @ 11:00:43 - Creating renew order for the subscription #7553
+11-01-2020 @ 11:00:43 - Here the subscription data:
+11-01-2020 @ 11:00:43 - ---- Original order id 7552
+11-01-2020 @ 11:00:43 - ---- the renew order must have the status on-hold
+11-01-2020 @ 11:00:43 - ---- the renew order not exist, create!
+11-01-2020 @ 11:00:43 - ----the customer with subscription #7553 has this user id #284
+11-01-2020 @ 11:00:43 - ---- the renew order created is #7663 the customer
+11-01-2020 @ 11:00:43 - ----Check the billing an shipping info
+11-01-2020 @ 11:00:43 - --------Check for billing
+11-01-2020 @ 11:00:43 - -------- billing for 7552 and user 284 (284 ) 
+11-01-2020 @ 11:00:43 - --------Check for shipping
+11-01-2020 @ 11:00:43 - -------- shipping for 7552 and user 284 (284 ) 
+11-01-2020 @ 11:00:43 - ---- set_subscriptions\n
+11-01-2020 @ 11:00:43 - -------- subscriptions Array
+(
+    [0] => 7553
+)
+
+11-01-2020 @ 11:00:43 - ---- set_payment_method\n
+11-01-2020 @ 11:00:43 - -------- epayco
+11-01-2020 @ 11:00:43 - ---- set_payment_method_title\n
+11-01-2020 @ 11:00:43 - -------- 
+11-01-2020 @ 11:00:43 - ---- set_currency\n
+11-01-2020 @ 11:00:43 - -------- COP
+11-01-2020 @ 11:00:43 - ---- set_failed_attemps\n
+11-01-2020 @ 11:00:43 - -------- failed_attemps 0
+11-01-2020 @ 11:00:43 - ---- set_next_payment_attempt\n
+11-01-2020 @ 11:00:43 - -------- next_payment_attempt 0
+11-01-2020 @ 11:00:43 - ---- set_shipping_first_name\n
+11-01-2020 @ 11:00:43 - -------- Daniela andrea
+11-01-2020 @ 11:00:43 - ---- set_shipping_last_name\n
+11-01-2020 @ 11:00:43 - -------- Galviz Escobar
+11-01-2020 @ 11:00:43 - ---- set_shipping_company\n
+11-01-2020 @ 11:00:43 - -------- 
+11-01-2020 @ 11:00:43 - ---- set_shipping_address_1\n
+11-01-2020 @ 11:00:43 - -------- Calle 13#4-22
+11-01-2020 @ 11:00:43 - ---- set_shipping_address_2\n
+11-01-2020 @ 11:00:43 - -------- Apartamento 201
+11-01-2020 @ 11:00:43 - ---- set_shipping_city\n
+11-01-2020 @ 11:00:43 - -------- Cúcuta
+11-01-2020 @ 11:00:43 - ---- set_shipping_state\n
+11-01-2020 @ 11:00:43 - -------- NOR
+11-01-2020 @ 11:00:43 - ---- set_shipping_postcode\n
+11-01-2020 @ 11:00:43 - -------- 
+11-01-2020 @ 11:00:43 - ---- set_shipping_country\n
+11-01-2020 @ 11:00:43 - -------- CO
+11-01-2020 @ 11:00:43 - ---- set_shipping_phone\n
+11-01-2020 @ 11:00:43 - -------- shipping_phone 3123768146
+11-01-2020 @ 11:00:43 - ---- set_billing_first_name\n
+11-01-2020 @ 11:00:43 - -------- Daniela andrea
+11-01-2020 @ 11:00:43 - ---- set_billing_last_name\n
+11-01-2020 @ 11:00:43 - -------- Galviz Escobar
+11-01-2020 @ 11:00:43 - ---- set_billing_company\n
+11-01-2020 @ 11:00:43 - -------- 
+11-01-2020 @ 11:00:43 - ---- set_billing_address_1\n
+11-01-2020 @ 11:00:43 - -------- Calle 13#4-22
+11-01-2020 @ 11:00:43 - ---- set_billing_address_2\n
+11-01-2020 @ 11:00:43 - -------- Apartamento 201
+11-01-2020 @ 11:00:43 - ---- set_billing_city\n
+11-01-2020 @ 11:00:43 - -------- Cúcuta
+11-01-2020 @ 11:00:43 - ---- set_billing_state\n
+11-01-2020 @ 11:00:43 - -------- NOR
+11-01-2020 @ 11:00:43 - ---- set_billing_postcode\n
+11-01-2020 @ 11:00:43 - -------- 
+11-01-2020 @ 11:00:43 - ---- set_billing_country\n
+11-01-2020 @ 11:00:43 - -------- CO
+11-01-2020 @ 11:00:43 - ---- set_billing_email\n
+11-01-2020 @ 11:00:43 - -------- dangaes@outlook.com
+11-01-2020 @ 11:00:43 - ---- set_billing_phone\n
+11-01-2020 @ 11:00:43 - -------- 3123768146
+11-01-2020 @ 11:00:45 - New order created with id 7663 for the subscription
+11-01-2020 @ 11:00:45 - ======================
+11-01-2020 @ 11:00:45 - ===============
+11-01-2020 @ 11:00:45 - Start Payment Renews cron at 2020-11-01 11:00:45
+11-01-2020 @ 11:00:45 - Search renew order with date < 2020-10-31 11:00:45
+11-01-2020 @ 11:00:45 - Found 2 new renew orders
+11-01-2020 @ 11:00:45 - Found 0 failed renew orders
+11-01-2020 @ 11:00:45 - Pay order #7643
+11-01-2020 @ 11:00:45 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 11:00:45 - Pay order #7638
+11-01-2020 @ 11:00:45 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 11:00:45 - =======================
+11-01-2020 @ 12:00:07 - ======================
+11-01-2020 @ 12:00:07 - Start renew order cron at 2020-11-01 12:00:07
+11-01-2020 @ 12:00:07 - Search subscriptions with Payment due date < 2020-11-02 12:00:07
+11-01-2020 @ 12:00:07 - Found 0 subscriptions
+11-01-2020 @ 12:00:07 - ======================
+11-01-2020 @ 12:00:07 - ===============
+11-01-2020 @ 12:00:07 - Start Payment Renews cron at 2020-11-01 12:00:07
+11-01-2020 @ 12:00:07 - Search renew order with date < 2020-10-31 12:00:07
+11-01-2020 @ 12:00:07 - Found 2 new renew orders
+11-01-2020 @ 12:00:07 - Found 0 failed renew orders
+11-01-2020 @ 12:00:07 - Pay order #7643
+11-01-2020 @ 12:00:07 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 12:00:07 - Pay order #7638
+11-01-2020 @ 12:00:07 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 12:00:07 - =======================
+11-01-2020 @ 13:01:55 - ======================
+11-01-2020 @ 13:01:55 - Start renew order cron at 2020-11-01 13:01:55
+11-01-2020 @ 13:01:55 - Search subscriptions with Payment due date < 2020-11-02 13:01:55
+11-01-2020 @ 13:01:55 - Found 0 subscriptions
+11-01-2020 @ 13:01:55 - ======================
+11-01-2020 @ 13:01:55 - ===============
+11-01-2020 @ 13:01:55 - Start Payment Renews cron at 2020-11-01 13:01:55
+11-01-2020 @ 13:01:55 - Search renew order with date < 2020-10-31 13:01:55
+11-01-2020 @ 13:01:55 - Found 2 new renew orders
+11-01-2020 @ 13:01:55 - Found 0 failed renew orders
+11-01-2020 @ 13:01:55 - Pay order #7643
+11-01-2020 @ 13:01:55 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 13:01:55 - Pay order #7638
+11-01-2020 @ 13:01:55 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 13:01:55 - =======================
+11-01-2020 @ 14:00:01 - ======================
+11-01-2020 @ 14:00:01 - Start renew order cron at 2020-11-01 14:00:01
+11-01-2020 @ 14:00:01 - Search subscriptions with Payment due date < 2020-11-02 14:00:01
+11-01-2020 @ 14:00:01 - Found 0 subscriptions
+11-01-2020 @ 14:00:01 - ======================
+11-01-2020 @ 14:00:01 - ===============
+11-01-2020 @ 14:00:01 - Start Payment Renews cron at 2020-11-01 14:00:01
+11-01-2020 @ 14:00:01 - Search renew order with date < 2020-10-31 14:00:01
+11-01-2020 @ 14:00:01 - Found 2 new renew orders
+11-01-2020 @ 14:00:01 - Found 0 failed renew orders
+11-01-2020 @ 14:00:01 - Pay order #7643
+11-01-2020 @ 14:00:01 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 14:00:01 - Pay order #7638
+11-01-2020 @ 14:00:01 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 14:00:01 - =======================
+11-01-2020 @ 14:39:54 - --------Check for billing
+11-01-2020 @ 14:39:54 - -------- billing for 7675 and user 525 (525 ) 
+11-01-2020 @ 14:39:54 - --------Check for billing
+11-01-2020 @ 14:39:54 - -------- billing for 7675 and user 525 (525 ) 
+11-01-2020 @ 15:00:01 - ======================
+11-01-2020 @ 15:00:01 - Start renew order cron at 2020-11-01 15:00:01
+11-01-2020 @ 15:00:01 - Search subscriptions with Payment due date < 2020-11-02 15:00:01
+11-01-2020 @ 15:00:01 - Found 0 subscriptions
+11-01-2020 @ 15:00:01 - ======================
+11-01-2020 @ 15:00:01 - ===============
+11-01-2020 @ 15:00:01 - Start Payment Renews cron at 2020-11-01 15:00:01
+11-01-2020 @ 15:00:01 - Search renew order with date < 2020-10-31 15:00:01
+11-01-2020 @ 15:00:01 - Found 2 new renew orders
+11-01-2020 @ 15:00:01 - Found 0 failed renew orders
+11-01-2020 @ 15:00:01 - Pay order #7643
+11-01-2020 @ 15:00:01 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 15:00:01 - Pay order #7638
+11-01-2020 @ 15:00:01 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 15:00:01 - =======================
+11-01-2020 @ 15:41:26 - --------Check for billing
+11-01-2020 @ 15:41:26 - -------- billing for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:41:26 - --------Check for shipping
+11-01-2020 @ 15:41:26 - -------- shipping for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:43:52 - a renew order cannot created because the subscription is  pending
+11-01-2020 @ 15:43:52 - --------Check for billing
+11-01-2020 @ 15:43:52 - -------- billing for 7688 and user 229 (229 ) 
+11-01-2020 @ 15:43:52 - --------Check for shipping
+11-01-2020 @ 15:43:52 - -------- shipping for 7688 and user 229 (229 ) 
+11-01-2020 @ 15:44:31 - --------Check for billing
+11-01-2020 @ 15:44:31 - -------- billing for 7688 and user 229 (229 ) 
+11-01-2020 @ 15:44:31 - --------Check for billing
+11-01-2020 @ 15:44:31 - -------- billing for 7688 and user 229 (229 ) 
+11-01-2020 @ 15:54:54 - --------Check for billing
+11-01-2020 @ 15:54:54 - -------- billing for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:54:54 - --------Check for shipping
+11-01-2020 @ 15:54:54 - -------- shipping for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:55:58 - --------Check for billing
+11-01-2020 @ 15:55:58 - -------- billing for 7690 and user 529 (529 ) 
+11-01-2020 @ 15:55:58 - --------Check for shipping
+11-01-2020 @ 15:55:58 - -------- shipping for 7690 and user 529 (529 ) 
+11-01-2020 @ 15:57:14 - --------Check for billing
+11-01-2020 @ 15:57:14 - -------- billing for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:57:14 - --------Check for shipping
+11-01-2020 @ 15:57:14 - -------- shipping for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:57:38 - --------Check for billing
+11-01-2020 @ 15:57:38 - -------- billing for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:59:32 - --------Check for billing
+11-01-2020 @ 15:59:32 - -------- billing for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:59:32 - --------Check for shipping
+11-01-2020 @ 15:59:32 - -------- shipping for 7686 and user 528 (528 ) 
+11-01-2020 @ 15:59:54 - --------Check for billing
+11-01-2020 @ 15:59:54 - -------- billing for 7690 and user 529 (529 ) 
+11-01-2020 @ 15:59:57 - --------Check for billing
+11-01-2020 @ 15:59:57 - -------- billing for 7690 and user 529 (529 ) 
+11-01-2020 @ 16:00:04 - ======================
+11-01-2020 @ 16:00:04 - Start renew order cron at 2020-11-01 16:00:04
+11-01-2020 @ 16:00:04 - Search subscriptions with Payment due date < 2020-11-02 16:00:04
+11-01-2020 @ 16:00:04 - Found 0 subscriptions
+11-01-2020 @ 16:00:04 - ======================
+11-01-2020 @ 16:00:04 - ===============
+11-01-2020 @ 16:00:04 - Start Payment Renews cron at 2020-11-01 16:00:04
+11-01-2020 @ 16:00:04 - Search renew order with date < 2020-10-31 16:00:04
+11-01-2020 @ 16:00:04 - Found 2 new renew orders
+11-01-2020 @ 16:00:04 - Found 0 failed renew orders
+11-01-2020 @ 16:00:04 - Pay order #7643
+11-01-2020 @ 16:00:04 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 16:00:04 - Pay order #7638
+11-01-2020 @ 16:00:04 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 16:00:04 - =======================
+11-01-2020 @ 16:51:16 - --------Check for billing
+11-01-2020 @ 16:51:16 - -------- billing for 7684 and user 527 (527 ) 
+11-01-2020 @ 16:51:16 - --------Check for shipping
+11-01-2020 @ 16:51:16 - -------- shipping for 7684 and user 527 (527 ) 
+11-01-2020 @ 16:51:33 - --------Check for billing
+11-01-2020 @ 16:51:33 - -------- billing for 7684 and user 527 (527 ) 
+11-01-2020 @ 16:51:33 - --------Check for shipping
+11-01-2020 @ 16:51:33 - -------- shipping for 7684 and user 527 (527 ) 
+11-01-2020 @ 16:51:44 - --------Check for billing
+11-01-2020 @ 16:51:44 - -------- billing for 7684 and user 527 (527 ) 
+11-01-2020 @ 16:51:55 - --------Check for billing
+11-01-2020 @ 16:51:55 - -------- billing for 7684 and user 527 (527 ) 
+11-01-2020 @ 16:51:55 - --------Check for shipping
+11-01-2020 @ 16:51:55 - -------- shipping for 7684 and user 527 (527 ) 
+11-01-2020 @ 16:56:34 - --------Check for billing
+11-01-2020 @ 16:56:34 - -------- billing for 7620 and user 510 (510 ) 
+11-01-2020 @ 16:56:34 - --------Check for shipping
+11-01-2020 @ 16:56:34 - -------- shipping for 7620 and user 510 (510 ) 
+11-01-2020 @ 16:57:02 - --------Check for billing
+11-01-2020 @ 16:57:02 - -------- billing for 7614 and user 510 (510 ) 
+11-01-2020 @ 16:57:13 - --------Check for billing
+11-01-2020 @ 16:57:13 - -------- billing for 7618 and user 510 (510 ) 
+11-01-2020 @ 16:57:13 - --------Check for shipping
+11-01-2020 @ 16:57:13 - -------- shipping for 7618 and user 510 (510 ) 
+11-01-2020 @ 17:00:01 - ======================
+11-01-2020 @ 17:00:01 - Start renew order cron at 2020-11-01 17:00:01
+11-01-2020 @ 17:00:01 - Search subscriptions with Payment due date < 2020-11-02 17:00:01
+11-01-2020 @ 17:00:01 - Found 0 subscriptions
+11-01-2020 @ 17:00:01 - ======================
+11-01-2020 @ 17:00:01 - ===============
+11-01-2020 @ 17:00:01 - Start Payment Renews cron at 2020-11-01 17:00:01
+11-01-2020 @ 17:00:01 - Search renew order with date < 2020-10-31 17:00:01
+11-01-2020 @ 17:00:01 - Found 2 new renew orders
+11-01-2020 @ 17:00:01 - Found 0 failed renew orders
+11-01-2020 @ 17:00:01 - Pay order #7643
+11-01-2020 @ 17:00:01 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 17:00:01 - Pay order #7638
+11-01-2020 @ 17:00:01 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 17:00:01 - =======================
+11-01-2020 @ 17:04:46 - --------Check for billing
+11-01-2020 @ 17:04:46 - -------- billing for 7684 and user 527 (527 ) 
+11-01-2020 @ 17:33:42 - --------Check for billing
+11-01-2020 @ 17:33:42 - -------- billing for 7690 and user 529 (529 ) 
+11-01-2020 @ 17:33:42 - --------Check for shipping
+11-01-2020 @ 17:33:42 - -------- shipping for 7690 and user 529 (529 ) 
+11-01-2020 @ 17:38:43 - --------Check for billing
+11-01-2020 @ 17:38:43 - -------- billing for 7690 and user 529 (529 ) 
+11-01-2020 @ 17:39:09 - --------Check for billing
+11-01-2020 @ 17:39:09 - -------- billing for 7690 and user 529 (529 ) 
+11-01-2020 @ 18:00:01 - ======================
+11-01-2020 @ 18:00:01 - Start renew order cron at 2020-11-01 18:00:01
+11-01-2020 @ 18:00:01 - Search subscriptions with Payment due date < 2020-11-02 18:00:01
+11-01-2020 @ 18:00:01 - Found 1 subscriptions
+11-01-2020 @ 18:00:01 - Subscription #7584 found
+11-01-2020 @ 18:00:01 - Creating renew order for the subscription #7584
+11-01-2020 @ 18:00:01 - Here the subscription data:
+11-01-2020 @ 18:00:01 - ---- Original order id 7583
+11-01-2020 @ 18:00:01 - ---- the renew order must have the status on-hold
+11-01-2020 @ 18:00:01 - ---- the renew order not exist, create!
+11-01-2020 @ 18:00:01 - ----the customer with subscription #7584 has this user id #500
+11-01-2020 @ 18:00:01 - ---- the renew order created is #7737 the customer
+11-01-2020 @ 18:00:01 - ----Check the billing an shipping info
+11-01-2020 @ 18:00:01 - --------Check for billing
+11-01-2020 @ 18:00:01 - -------- billing for 7583 and user 500 (500 ) 
+11-01-2020 @ 18:00:01 - --------Check for shipping
+11-01-2020 @ 18:00:01 - -------- shipping for 7583 and user 500 (500 ) 
+11-01-2020 @ 18:00:01 - ---- set_subscriptions\n
+11-01-2020 @ 18:00:01 - -------- subscriptions Array
+(
+    [0] => 7584
+)
+
+11-01-2020 @ 18:00:01 - ---- set_payment_method\n
+11-01-2020 @ 18:00:01 - -------- epayco
+11-01-2020 @ 18:00:01 - ---- set_payment_method_title\n
+11-01-2020 @ 18:00:01 - -------- 
+11-01-2020 @ 18:00:01 - ---- set_currency\n
+11-01-2020 @ 18:00:01 - -------- COP
+11-01-2020 @ 18:00:01 - ---- set_failed_attemps\n
+11-01-2020 @ 18:00:01 - -------- failed_attemps 0
+11-01-2020 @ 18:00:01 - ---- set_next_payment_attempt\n
+11-01-2020 @ 18:00:01 - -------- next_payment_attempt 0
+11-01-2020 @ 18:00:01 - ---- set_shipping_first_name\n
+11-01-2020 @ 18:00:01 - -------- Adriana
+11-01-2020 @ 18:00:01 - ---- set_shipping_last_name\n
+11-01-2020 @ 18:00:01 - -------- Franco Ramirez
+11-01-2020 @ 18:00:01 - ---- set_shipping_company\n
+11-01-2020 @ 18:00:01 - -------- 
+11-01-2020 @ 18:00:01 - ---- set_shipping_address_1\n
+11-01-2020 @ 18:00:01 - -------- Carrera 9 # 19-45 edificio Santa Ana
+11-01-2020 @ 18:00:01 - ---- set_shipping_address_2\n
+11-01-2020 @ 18:00:01 - -------- apto 501
+11-01-2020 @ 18:00:01 - ---- set_shipping_city\n
+11-01-2020 @ 18:00:01 - -------- Pereira
+11-01-2020 @ 18:00:01 - ---- set_shipping_state\n
+11-01-2020 @ 18:00:01 - -------- RIS
+11-01-2020 @ 18:00:01 - ---- set_shipping_postcode\n
+11-01-2020 @ 18:00:01 - -------- 
+11-01-2020 @ 18:00:01 - ---- set_shipping_country\n
+11-01-2020 @ 18:00:01 - -------- CO
+11-01-2020 @ 18:00:01 - ---- set_shipping_phone\n
+11-01-2020 @ 18:00:01 - -------- shipping_phone 3122964573
+11-01-2020 @ 18:00:01 - ---- set_billing_first_name\n
+11-01-2020 @ 18:00:01 - -------- Adriana
+11-01-2020 @ 18:00:01 - ---- set_billing_last_name\n
+11-01-2020 @ 18:00:01 - -------- Franco Ramirez
+11-01-2020 @ 18:00:01 - ---- set_billing_company\n
+11-01-2020 @ 18:00:01 - -------- 
+11-01-2020 @ 18:00:01 - ---- set_billing_address_1\n
+11-01-2020 @ 18:00:01 - -------- Carrera 9 # 19-45 edificio Santa Ana
+11-01-2020 @ 18:00:01 - ---- set_billing_address_2\n
+11-01-2020 @ 18:00:01 - -------- apto 501
+11-01-2020 @ 18:00:01 - ---- set_billing_city\n
+11-01-2020 @ 18:00:01 - -------- Pereira
+11-01-2020 @ 18:00:01 - ---- set_billing_state\n
+11-01-2020 @ 18:00:01 - -------- RIS
+11-01-2020 @ 18:00:01 - ---- set_billing_postcode\n
+11-01-2020 @ 18:00:01 - -------- 
+11-01-2020 @ 18:00:01 - ---- set_billing_country\n
+11-01-2020 @ 18:00:01 - -------- CO
+11-01-2020 @ 18:00:01 - ---- set_billing_email\n
+11-01-2020 @ 18:00:01 - -------- nanafranco85@gmail.com
+11-01-2020 @ 18:00:01 - ---- set_billing_phone\n
+11-01-2020 @ 18:00:01 - -------- 3122964573
+11-01-2020 @ 18:00:03 - New order created with id 7737 for the subscription
+11-01-2020 @ 18:00:03 - ======================
+11-01-2020 @ 18:00:03 - ===============
+11-01-2020 @ 18:00:03 - Start Payment Renews cron at 2020-11-01 18:00:03
+11-01-2020 @ 18:00:03 - Search renew order with date < 2020-10-31 18:00:03
+11-01-2020 @ 18:00:03 - Found 2 new renew orders
+11-01-2020 @ 18:00:03 - Found 0 failed renew orders
+11-01-2020 @ 18:00:03 - Pay order #7643
+11-01-2020 @ 18:00:03 - The order 7643 should be pay with ( epayco )
+11-01-2020 @ 18:00:03 - Pay order #7638
+11-01-2020 @ 18:00:03 - The order 7638 should be pay with ( epayco )
+11-01-2020 @ 18:00:03 - =======================
