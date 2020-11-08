@@ -1,0 +1,24 @@
+2020-11-05T00:24:38+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php:675
+Stack trace:
+#0 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->ePayco_successful_request(NULL)
+#1 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php(619): do_action('ePayco_init', Array)
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->check_ePayco_response('')
+#5 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /home/forge/lalabag.com/wp-content/plugins/woocommerce/includes/class-wc-api.php(148): do_action('woocommerce_api...')
+#8 / en /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php en la línea 675
+
+2020-11-05T01:37:00+00:00 CRITICAL Uncaught Error: Call to a member function get_status() on null in /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php:675
+Stack trace:
+#0 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->ePayco_successful_request(NULL)
+#1 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php(619): do_action('ePayco_init', Array)
+#4 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(287): WC_ePayco->check_ePayco_response('')
+#5 /home/forge/lalabag.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/forge/lalabag.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /home/forge/lalabag.com/wp-content/plugins/woocommerce/includes/class-wc-api.php(148): do_action('woocommerce_api...')
+#8 / en /home/forge/lalabag.com/wp-content/plugins/Plugin_ePayco_WooCommerce-3.7.0/woocommerce-gateway-payco.php en la línea 675
+
