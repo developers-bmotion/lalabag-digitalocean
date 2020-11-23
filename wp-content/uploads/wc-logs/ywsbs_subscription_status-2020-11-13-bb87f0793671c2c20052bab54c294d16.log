@@ -1,0 +1,21 @@
+11-13-2020 @ 00:05:56 - ======================
+11-13-2020 @ 00:05:56 - Start check subscription payment cron at 2020-11-13 00:05:56
+11-13-2020 @ 00:05:56 - Search subscriptions with Payment due date < 2020-11-13 00:05:56
+11-13-2020 @ 00:05:56 - Found 0 subscriptions
+11-13-2020 @ 00:05:56 - ===============
+11-13-2020 @ 00:05:56 - ======================
+11-13-2020 @ 00:05:56 - Start expired cron at 2020-11-13 00:05:56
+11-13-2020 @ 00:05:56 - Search subscription with expired date < 2020-11-13 00:05:56
+11-13-2020 @ 00:05:56 - Found 0 subscriptions
+11-13-2020 @ 00:05:56 - ======================
+11-13-2020 @ 00:05:56 - ======================
+11-13-2020 @ 00:05:56 - Start resume orders cron at 2020-11-13 00:05:56
+11-13-2020 @ 00:05:56 - Search subscriptions to resume with expired pause date <  2020-11-13 05:05:56
+11-13-2020 @ 00:05:56 - Found 0 subscriptions
+11-13-2020 @ 00:05:56 - ======================
+11-13-2020 @ 00:05:56 - ===============
+11-13-2020 @ 00:05:56 - Start check suspended subscription at 2020-11-13 00:05:56
+11-13-2020 @ 00:05:56 - Search suspended subscriptions with Payment due date < 2020-10-24 10:05:56
+11-13-2020 @ 00:05:56 - Found 1 subscriptions
+11-13-2020 @ 00:05:59 - Subscription  7566 cancelled
+11-13-2020 @ 00:05:59 - ================

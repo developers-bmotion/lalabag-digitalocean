@@ -1,9 +1,0 @@
-09-18-2020 @ 20:32:05 - find a subscription at create_order : 7552 product_id : 7410
-09-18-2020 @ 20:32:05 - find a subscription at woocommerce_checkout_order_processed : 7552 product_id : 7410
-09-18-2020 @ 20:32:05 - Created a new subscription 7553 for order: 7552
-09-18-2020 @ 21:19:06 - find a subscription at create_order : 7554 product_id : 7410
-09-18-2020 @ 21:19:06 - find a subscription at woocommerce_checkout_order_processed : 7554 product_id : 7410
-09-18-2020 @ 21:19:06 - Created a new subscription 7555 for order: 7554
-09-18-2020 @ 21:19:52 - find a subscription at create_order : 7554 product_id : 7410
-09-18-2020 @ 21:19:52 - find a subscription at woocommerce_checkout_order_processed : 7554 product_id : 7410
-09-18-2020 @ 21:19:52 - Created a new subscription 7556 for order: 7554

@@ -1,6 +1,0 @@
-10-05-2020 @ 20:22:04 - find a subscription at create_order : 7594 product_id : 7432
-10-05-2020 @ 20:22:04 - find a subscription at woocommerce_checkout_order_processed : 7594 product_id : 7432
-10-05-2020 @ 20:22:04 - Created a new subscription 7595 for order: 7594
-10-05-2020 @ 20:28:12 - find a subscription at create_order : 7596 product_id : 7432
-10-05-2020 @ 20:28:12 - find a subscription at woocommerce_checkout_order_processed : 7596 product_id : 7432
-10-05-2020 @ 20:28:13 - Created a new subscription 7597 for order: 7596
