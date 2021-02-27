@@ -1,0 +1,12 @@
+01-29-2021 @ 00:44:03 - find a subscription at create_order : 8162 product_id : 7410
+01-29-2021 @ 00:44:03 - find a subscription at woocommerce_checkout_order_processed : 8162 product_id : 7410
+01-29-2021 @ 00:44:03 - Created a new subscription 8163 for order: 8162
+01-29-2021 @ 00:51:13 - find a subscription at create_order : 8162 product_id : 7410
+01-29-2021 @ 00:51:13 - find a subscription at woocommerce_checkout_order_processed : 8162 product_id : 7410
+01-29-2021 @ 00:51:13 - Created a new subscription 8164 for order: 8162
+01-29-2021 @ 00:53:51 - find a subscription at create_order : 8165 product_id : 7410
+01-29-2021 @ 00:53:52 - find a subscription at woocommerce_checkout_order_processed : 8165 product_id : 7410
+01-29-2021 @ 00:53:52 - Created a new subscription 8166 for order: 8165
+01-29-2021 @ 00:56:45 - find a subscription at create_order : 8167 product_id : 7410
+01-29-2021 @ 00:56:45 - find a subscription at woocommerce_checkout_order_processed : 8167 product_id : 7410
+01-29-2021 @ 00:56:45 - Created a new subscription 8168 for order: 8167

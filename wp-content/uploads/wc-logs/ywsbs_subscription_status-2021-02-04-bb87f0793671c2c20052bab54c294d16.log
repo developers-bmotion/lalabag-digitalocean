@@ -1,0 +1,21 @@
+02-04-2021 @ 00:04:03 - ======================
+02-04-2021 @ 00:04:03 - Start check subscription payment cron at 2021-02-04 00:04:03
+02-04-2021 @ 00:04:03 - Search subscriptions with Payment due date < 2021-02-04 00:04:03
+02-04-2021 @ 00:04:03 - Found 0 subscriptions
+02-04-2021 @ 00:04:03 - ===============
+02-04-2021 @ 00:04:03 - ======================
+02-04-2021 @ 00:04:03 - Start expired cron at 2021-02-04 00:04:03
+02-04-2021 @ 00:04:03 - Search subscription with expired date < 2021-02-04 00:04:03
+02-04-2021 @ 00:04:03 - Found 0 subscriptions
+02-04-2021 @ 00:04:03 - ======================
+02-04-2021 @ 00:04:04 - ======================
+02-04-2021 @ 00:04:04 - Start resume orders cron at 2021-02-04 00:04:04
+02-04-2021 @ 00:04:04 - Search subscriptions to resume with expired pause date <  2021-02-04 05:04:04
+02-04-2021 @ 00:04:04 - Found 0 subscriptions
+02-04-2021 @ 00:04:04 - ======================
+02-04-2021 @ 00:04:04 - ===============
+02-04-2021 @ 00:04:04 - Start check suspended subscription at 2021-02-04 00:04:04
+02-04-2021 @ 00:04:04 - Search suspended subscriptions with Payment due date < 2021-01-15 10:04:04
+02-04-2021 @ 00:04:04 - Found 1 subscriptions
+02-04-2021 @ 00:04:08 - Subscription  7613 cancelled
+02-04-2021 @ 00:04:08 - ================

@@ -1,0 +1,6 @@
+02-21-2021 @ 11:55:22 - find a subscription at create_order : 8215 product_id : 7410
+02-21-2021 @ 11:55:22 - find a subscription at woocommerce_checkout_order_processed : 8215 product_id : 7410
+02-21-2021 @ 11:55:22 - Created a new subscription 8216 for order: 8215
+02-21-2021 @ 13:02:55 - find a subscription at create_order : 8217 product_id : 7415
+02-21-2021 @ 13:02:55 - find a subscription at woocommerce_checkout_order_processed : 8217 product_id : 7415
+02-21-2021 @ 13:02:55 - Created a new subscription 8218 for order: 8217

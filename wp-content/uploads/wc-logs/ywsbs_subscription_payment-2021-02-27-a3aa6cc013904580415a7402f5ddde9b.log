@@ -1,0 +1,50 @@
+02-26-2021 @ 19:01:46 - ======================
+02-26-2021 @ 19:01:46 - Start renew order cron at 2021-02-26 19:01:46
+02-26-2021 @ 19:01:46 - Search subscriptions with Payment due date < 2021-02-27 19:01:46
+02-26-2021 @ 19:01:46 - Found 0 subscriptions
+02-26-2021 @ 19:01:46 - ======================
+02-26-2021 @ 19:01:46 - ===============
+02-26-2021 @ 19:01:46 - Start Payment Renews cron at 2021-02-26 19:01:46
+02-26-2021 @ 19:01:46 - Search renew order with date < 2021-02-25 19:01:46
+02-26-2021 @ 19:01:46 - Found 4 new renew orders
+02-26-2021 @ 19:01:46 - Found 0 failed renew orders
+02-26-2021 @ 19:01:46 - Pay order #8237
+02-26-2021 @ 19:01:46 - The order 8237 should be pay with ( epayco )
+02-26-2021 @ 19:01:46 - Pay order #8220
+02-26-2021 @ 19:01:46 - The order 8220 should be pay with ( epayco )
+02-26-2021 @ 19:01:46 - Pay order #8201
+02-26-2021 @ 19:01:46 - The order 8201 should be pay with ( epayco )
+02-26-2021 @ 19:01:46 - Pay order #8200
+02-26-2021 @ 19:01:46 - The order 8200 should be pay with ( epayco )
+02-26-2021 @ 19:01:46 - =======================
+02-26-2021 @ 20:04:31 - ======================
+02-26-2021 @ 20:04:31 - Start renew order cron at 2021-02-26 20:04:31
+02-26-2021 @ 20:04:31 - Search subscriptions with Payment due date < 2021-02-27 20:04:31
+02-26-2021 @ 20:04:31 - Found 0 subscriptions
+02-26-2021 @ 20:04:31 - ======================
+02-26-2021 @ 20:04:31 - ===============
+02-26-2021 @ 20:04:31 - Start Payment Renews cron at 2021-02-26 20:04:31
+02-26-2021 @ 20:04:31 - Search renew order with date < 2021-02-25 20:04:31
+02-26-2021 @ 20:04:31 - Found 4 new renew orders
+02-26-2021 @ 20:04:31 - Found 0 failed renew orders
+02-26-2021 @ 20:04:31 - Pay order #8237
+02-26-2021 @ 20:04:31 - The order 8237 should be pay with ( epayco )
+02-26-2021 @ 20:04:31 - Pay order #8220
+02-26-2021 @ 20:04:31 - The order 8220 should be pay with ( epayco )
+02-26-2021 @ 20:04:31 - Pay order #8201
+02-26-2021 @ 20:04:31 - The order 8201 should be pay with ( epayco )
+02-26-2021 @ 20:04:31 - Pay order #8200
+02-26-2021 @ 20:04:31 - The order 8200 should be pay with ( epayco )
+02-26-2021 @ 20:04:31 - =======================
+02-26-2021 @ 20:09:22 - Cannot pay the order because the subscription 7647 is cancelled
+02-26-2021 @ 20:09:34 - --------Check for billing
+02-26-2021 @ 20:09:34 - -------- billing for 7646 and user 518 (518 ) 
+02-26-2021 @ 20:09:40 - --------Check for billing
+02-26-2021 @ 20:09:40 - -------- billing for 7646 and user 518 (518 ) 
+02-26-2021 @ 20:09:48 - Cannot pay the order because the subscription 7647 is cancelled
+02-26-2021 @ 20:09:48 - --------Check for billing
+02-26-2021 @ 20:09:48 - -------- billing for 7646 and user 518 (518 ) 
+02-26-2021 @ 20:09:48 - --------Check for shipping
+02-26-2021 @ 20:09:48 - -------- shipping for 7646 and user 518 (518 ) 
+02-26-2021 @ 20:10:02 - Cannot pay the order because the subscription 7647 is cancelled
+02-26-2021 @ 20:10:54 - Cannot pay the order because the subscription 7647 is cancelled

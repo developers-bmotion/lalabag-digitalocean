@@ -1,0 +1,7 @@
+2021-02-18T02:31:17+00:00 NOTICE Warning: No saved export fields were returned for Export Type 'order' from the Export Template with Post ID #5804, defaulting to all export fields.
+2021-02-18T02:31:47+00:00 NOTICE Warning: No saved export fields were returned for Export Type 'order' from the Export Template with Post ID #5804, defaulting to all export fields.
+2021-02-18T02:37:47+00:00 NOTICE Warning: No saved export fields were returned for Export Type 'order' from the Export Template with Post ID #5804, defaulting to all export fields.
+2021-02-18T06:01:05+00:00 NOTICE order_completed_data_lalabag-date%.xlsx: Success: Scheduled export e-mail of order_completed_data_lalabag-date%.xlsx sent to lalabag-online@marllogroup.com
+2021-02-18T06:01:05+00:00 NOTICE Warning: No saved export fields were returned for Export Type 'order' from the Export Template with Post ID #6318, defaulting to all export fields.
+2021-02-18T06:01:06+00:00 NOTICE export_order-2021_02_18-01_01_05-39051693.xlsx: Warning: The PHPExcel library was already loaded by another WordPress Plugin, if there's issues with your export file you know where to look.
+2021-02-18T06:01:07+00:00 NOTICE order_completed_data_lalabag-date%.xlsx: Success: Scheduled export e-mail of order_completed_data_lalabag-date%.xlsx sent to jjllorente@bmotion.co

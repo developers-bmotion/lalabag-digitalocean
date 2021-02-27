@@ -1,0 +1,22 @@
+01-28-2021 @ 00:05:03 - ======================
+01-28-2021 @ 00:05:03 - Start check subscription payment cron at 2021-01-28 00:05:03
+01-28-2021 @ 00:05:03 - Search subscriptions with Payment due date < 2021-01-28 00:05:03
+01-28-2021 @ 00:05:03 - Found 1 subscriptions
+01-28-2021 @ 00:05:03 - Process subscription with id #8084
+01-28-2021 @ 00:05:05 - Subscription 8084 suspended
+01-28-2021 @ 00:05:05 - ===============
+01-28-2021 @ 00:05:05 - ======================
+01-28-2021 @ 00:05:05 - Start expired cron at 2021-01-28 00:05:05
+01-28-2021 @ 00:05:05 - Search subscription with expired date < 2021-01-28 00:05:05
+01-28-2021 @ 00:05:05 - Found 0 subscriptions
+01-28-2021 @ 00:05:05 - ======================
+01-28-2021 @ 00:05:05 - ======================
+01-28-2021 @ 00:05:05 - Start resume orders cron at 2021-01-28 00:05:05
+01-28-2021 @ 00:05:05 - Search subscriptions to resume with expired pause date <  2021-01-28 05:05:05
+01-28-2021 @ 00:05:05 - Found 0 subscriptions
+01-28-2021 @ 00:05:05 - ======================
+01-28-2021 @ 00:05:05 - ===============
+01-28-2021 @ 00:05:05 - Start check suspended subscription at 2021-01-28 00:05:05
+01-28-2021 @ 00:05:05 - Search suspended subscriptions with Payment due date < 2021-01-08 10:05:05
+01-28-2021 @ 00:05:05 - Found 0 subscriptions
+01-28-2021 @ 00:05:05 - ================
